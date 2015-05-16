@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ColorPhrase</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="pattern">我是&lt;中国人&gt;，我爱我的&lt;祖国&gt;</string>
+
+</resources>
