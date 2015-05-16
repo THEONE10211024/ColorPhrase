@@ -10,4 +10,4 @@ CharSequence formatted = Phrase.from("I'm {Chinese}, I love {China}")
   .format();
 ```
 ## Preview
-！[one sample](https://github.com/THEONE10211024/ColorPhrase/blob/master/screenshot/Screenshot_2015-05-16-18-12-23.jpeg)
+![sample](https://github.com/THEONE10211024/ColorPhrase/blob/master/screenshot/Screenshot_2015-05-16-18-12-23.jpeg)
