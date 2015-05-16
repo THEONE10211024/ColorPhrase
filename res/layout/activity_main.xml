@@ -16,7 +16,7 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="20dp"
         android:text="@string/pattern"
-        android:textSize="12sp">
+        android:textSize="18sp">
 
         <requestFocus />
     </EditText>
@@ -26,7 +26,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="30dp"
-        android:textSize="12sp" />
+        android:textSize="18sp" />
 
     <Button
         android:id="@+id/button1"
